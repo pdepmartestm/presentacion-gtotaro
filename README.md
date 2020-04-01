@@ -4,4 +4,4 @@ Gastón Adrián Totaro
 
 ***
 
-!perfil-CV.jpg
+!presentacion-gtotaro/perfil-CV.jpg
