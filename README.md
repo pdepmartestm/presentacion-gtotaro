@@ -4,4 +4,4 @@ Gastón Adrián Totaro
 
 ***
 
-! perfil-CV.jpg "foto"
+! (https://github.com/pdepmartestm/presentacion-gtotaro/blob/master/perfil-CV.jpg)
