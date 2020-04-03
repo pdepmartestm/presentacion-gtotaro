@@ -17,7 +17,7 @@ les presento a mi mascota Coki
 
 
 
-Mi serie favorita Braking Bad y Six feet under.
+Mi serie favorita Breaking Bad y Six feet under.
 
 
 
